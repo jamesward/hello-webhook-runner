@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # waiting for logging agent to be ready
 sleep 30
